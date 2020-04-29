@@ -22,13 +22,14 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  on_repeat = ['Savannah','Pink $weats','Jhene','DVSN']
-  on_repeat.pop
+  
   
 end
 
 def remove_element_from_start_of_array(array)
   remove_element_from_start_of_array.pop()
+
+end
   
 def retrieve_element_from_index(array, index_number)
   
