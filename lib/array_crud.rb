@@ -9,12 +9,13 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  on_repeat = []
+  on_repeat.push('Summer Walker')
   
 end
 
 def add_element_to_start_of_array(array, element)
-  
+  on_repeat.unshift('Miguel')
+
 end
 
 def remove_element_from_end_of_array(array)
