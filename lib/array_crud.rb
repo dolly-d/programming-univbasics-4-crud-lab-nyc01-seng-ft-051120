@@ -10,7 +10,7 @@ end
 
 def add_element_to_end_of_array(array, element)
  on_repeat = ['Savannah','Pink $weats','Jhene','DVSN']
-  on_repeat.push('arrays!')
+  on_repeat.push(element)
   
   
 end
