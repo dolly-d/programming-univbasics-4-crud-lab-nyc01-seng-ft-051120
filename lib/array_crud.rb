@@ -23,7 +23,7 @@ end
 
 def remove_element_from_end_of_array(array)
   on_repeat = ['Savannah','Pink $weats','Jhene','DVSN']
-  on_repeat.pop()
+  on_repeat.pop('arrays!')
   
 end
 
