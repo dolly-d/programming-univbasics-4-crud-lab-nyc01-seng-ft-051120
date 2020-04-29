@@ -9,12 +9,12 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
- on_repeat = array
-  on_repeat.push(element)
+ array.push(element)
   
 end
 
 def add_element_to_start_of_array(array, element)
+  
   
   
 end
