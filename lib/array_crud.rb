@@ -4,10 +4,12 @@ def create_an_empty_array
 end
 
 def create_an_array
+  on_repeat = ['Savannah','Pink $weats','Jhene','DVSN']
   
 end
 
 def add_element_to_end_of_array(array, element)
+  on_repeat = []
   
 end
 
